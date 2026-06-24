@@ -12,4 +12,4 @@ danielw83@live.de
 
 You can find the privacy policy here:
 
-https://DEIN-GITHUB-NAME.github.io/quietanchor-support/privacy.html
+https://noem224.github.io/quietanchor-support/privacy.html
